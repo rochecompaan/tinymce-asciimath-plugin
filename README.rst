@@ -31,7 +31,7 @@ Installation
 3. Copy the plugin to jscripts/tiny_mce/plugins/asciimath directory into your
    TinyMCE plugins directory.
 
-4. Add the plugin to your TinyMCE config, eg:
+4. Add the plugin to your TinyMCE config, eg::
 
     <script type="text/javascript">
         tinyMCE.init({
@@ -41,4 +41,5 @@ Installation
 				theme_advanced_buttons3: "hr,removeformat,visualaid,|,sub,sup,|,charmap,asciimath",
     });
     </script>
+
 
