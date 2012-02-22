@@ -38,7 +38,7 @@ Installation
                 mode: "textareas",
                 plugins: "asciimath",
                 theme: "advanced",
-				theme_advanced_buttons3: "hr,removeformat,visualaid,|,sub,sup,|,charmap,asciimath",
+                theme_advanced_buttons3: "hr,removeformat,visualaid,|,sub,sup,|,charmap,asciimath",
     });
     </script>
 
